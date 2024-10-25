@@ -1,0 +1,6 @@
+C:\Programas C#\PrinterLibrary\PrinterLibrary\bin\Debug\PrinterLibrary.dll
+C:\Programas C#\PrinterLibrary\PrinterLibrary\bin\Debug\PrinterLibrary.pdb
+C:\Programas C#\PrinterLibrary\PrinterLibrary\obj\Debug\PrinterLibrary.csproj.AssemblyReference.cache
+C:\Programas C#\PrinterLibrary\PrinterLibrary\obj\Debug\PrinterLibrary.csproj.CoreCompileInputs.cache
+C:\Programas C#\PrinterLibrary\PrinterLibrary\obj\Debug\PrinterLibrary.dll
+C:\Programas C#\PrinterLibrary\PrinterLibrary\obj\Debug\PrinterLibrary.pdb

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programas C#\\PrinterLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB59A158-B899-4D3F-BB90-E9D3B77E6F8D}|PrinterLibrary\\PrinterLibrary.csproj|c:\\programas c#\\printerlibrary\\printerlibrary\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB59A158-B899-4D3F-BB90-E9D3B77E6F8D}|PrinterLibrary\\PrinterLibrary.csproj|solutionrelative:printerlibrary\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "C:\\Programas C#\\PrinterLibrary\\PrinterLibrary\\Printer.cs",
+              "RelativeDocumentMoniker": "PrinterLibrary\\Printer.cs",
+              "ToolTip": "C:\\Programas C#\\PrinterLibrary\\PrinterLibrary\\Printer.cs",
+              "RelativeToolTip": "PrinterLibrary\\Printer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T17:58:53.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
